@@ -1,0 +1,195 @@
+
+body{
+    background-color: rgba(38, 38, 38, 0.917);
+    background-image: url(./usama.png);
+    background-repeat: no-repeat;
+         background-size: 200px;
+         background-position: center;
+         /* position:; */
+         
+         
+}
+.manu{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-weight: bold;
+    
+}
+.main{
+    color: rgba(117, 115, 115, 0.797);
+    display: inline;
+    margin-left: 60px;
+   font-weight: normal;    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+ 
+
+}
+.main:hover{
+    color: white;
+}
+.top{
+    color: white;
+    margin-left: 80px;
+}
+.services{
+     float: right;
+ margin-top: 50px;
+ margin-right: 200px;
+ font-weight: normal;
+ width: 200px;
+ 
+
+}
+
+
+
+.show{
+    color: rgba(255, 217, 0, 0.676);
+    font-size: small;
+    font-weight: normal;
+
+}
+.fonts{
+    color:rgba(255, 217, 0, 0.676) ;
+    word-spacing: 5px;
+}
+.im{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 80px;
+    font-weight: normal;
+}
+.contant{
+    line-height: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+     
+       /* font-weight: bolder; */
+}
+.para{
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 220px;
+    
+}
+.hori{
+    width: 60px;
+    margin-left: 2px;
+    
+}
+.margin{
+    margin-left: 100px;
+    justify-content: space-around;
+}
+
+.meta{
+    padding: 20px;
+    /* text-align: center; */
+    border-style: solid;
+    width: 800px;
+    border-color:rgba(114, 112, 112, 0.797);
+       background-color: rgba(117, 115, 115, 0.797);
+}
+
+
+.inline{
+    display: inline;
+    margin-left: 80px;
+    color: hsl(0, 0%, 100%);
+    background: rgba(38, 38, 38, 0.917);
+    border-color:rgba(38, 38, 38, 0.917) ;
+    border-style: solid;
+    padding: 10px;
+}
+.what{
+    margin-left: 40px;
+    color: white;
+    
+    /* background-color: #C8C8C8; */
+}
+
+
+
+
+.download{
+    float: right;
+    margin-right: 20px;
+    font-size: small;
+    color: white;
+    }
+.front{
+    float: right;
+    margin-right: 165px;
+    color: white;
+    font-size: small;
+}
+
+
+
+.bold1 {
+    
+    display: flex;
+    justify-content: space-around;
+
+    color: #fff;
+
+}
+
+.bold2 {
+    position: relative;
+    top: 5rem;
+    width: 17%;
+    gap: 20rem;
+   
+}
+
+.right {
+    position: relative;
+    top: 5rem;
+    width: 30%;
+}
+
+.left_bot {
+    display: flex;
+}
+
+.bold2 h1 {
+    font-size: 3rem;
+    width: 30rem;
+}
+
+.bold2 p {
+    width: 19rem;
+    line-height: 1.5rem;
+}
+
+.bold2 span {
+    line-height: 3rem;
+    color: yellow;
+    font-size: 2rem;
+    
+}
+.flex{
+    display: flex;
+    margin: 1rem;
+    
+    
+}
+.right img{
+    height: 10vh;
+    width: 8vw;
+    margin-right:1rem ;
+}
+.right i{
+    color: yellow;
+    
+}
+.right hr{
+    border-bottom: 1px solid black ;
+    width: 30rem;
+}
+.padding{
+    padding-top: 1rem;
+}
+  
